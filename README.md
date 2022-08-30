@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wildanicardi" alt="wildanicardi" /></a> </p>
 
-- 🔭 I’m currently working on VirtualSpirit [Foodadvisor](https://www.foodadvisor.my/)
+- 🔭 I’m currently working on VirtualSpirit
 
 - 🌱 I’m currently learning **Laravel, Express Js, Go, Docker**
 
